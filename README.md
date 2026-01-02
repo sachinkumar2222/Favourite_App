@@ -36,11 +36,9 @@ Experience the app today!
 
 ## 📸 Screenshots
 
-| Home | Search | Details |
-|------|--------|---------|
-| ![Home](https://placehold.co/200x400/1a1a1a/FFF?text=Home) | ![Search](https://placehold.co/200x400/1a1a1a/FFF?text=Search) | ![Details](https://placehold.co/200x400/1a1a1a/FFF?text=Details) |
-
-*(Note: Add your actual screenshots to the `screenshots` folder and update paths)*
+| Home | Search | Details | Person |
+|------|--------|---------|--------|
+| <img src="app/src/main/res/assets/home.png" width="200" /> | <img src="app/src/main/res/assets/search.png" width="200" /> | <img src="app/src/main/res/assets/details.png" width="200" /> | <img src="app/src/main/res/assets/person.png" width="200" /> |
 
 ## 📥 Installation
 
